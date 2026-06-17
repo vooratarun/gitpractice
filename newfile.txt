@@ -1,0 +1,1 @@
+main branch newfile.txt for conflict
