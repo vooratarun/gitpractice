@@ -1,0 +1,3 @@
+register a user with email and password
+registration page change
+
