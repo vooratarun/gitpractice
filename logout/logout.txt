@@ -1,3 +1,0 @@
-logout
-mfa logout
-oauth logout

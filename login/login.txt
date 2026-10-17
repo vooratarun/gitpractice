@@ -1,4 +1,0 @@
-login
-biometric
-mfa
-oauth

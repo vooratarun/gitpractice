@@ -1,4 +1,0 @@
-development
-here
-nowhere
-git practice

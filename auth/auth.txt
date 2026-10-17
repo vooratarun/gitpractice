@@ -1,5 +1,0 @@
-authentication
-changes
-here
-latest
-auth txt udpdate
